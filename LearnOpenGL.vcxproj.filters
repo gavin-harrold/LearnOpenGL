@@ -18,7 +18,7 @@
     <ClCompile Include="..\..\..\Downloads\glad\src\glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="testingGraphics.cpp">
+    <ClCompile Include="triangles.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
