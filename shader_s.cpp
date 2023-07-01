@@ -3,11 +3,9 @@
 #include <sstream>
 #include <iostream>
 #include <glad/glad.h>
-#include <string>
 using namespace std;
 
-
-unsigned int ID;
+unsigned int Shader::ID;
 
 // utility function for error checking
 void checkCompileErrors(unsigned int shader, std::string type) {
